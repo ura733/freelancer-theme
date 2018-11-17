@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2018-06-01
+img: potepanec.png
+alt: image-alt
+project-date: Jun 2018
+code: https://bitbucket.org/kosukem/potepanec/src
+description: プログラミングスクール「ポテパンキャンプ」にて<a href="https://github.com/solidusio/solidus">Solidus</a>を使ったECサイトの改修を実施しました。現役Railsエンジニアからコードレビューを頂きながら現場で活躍できる技術を学びました。
+
+---
