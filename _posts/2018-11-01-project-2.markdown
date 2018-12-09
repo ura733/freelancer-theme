@@ -6,6 +6,6 @@ img: taskleaf.png
 alt: image-alt
 project-date: November 2018
 code: https://github.com/ura733/Taskleaf
-description: <a href="https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B-Ruby-Rails-5%E9%80%9F%E7%BF%92%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E5%A4%A7%E5%A0%B4%E5%AF%A7%E5%AD%90/dp/4839962227">現場で使える Ruby on Rails 5速習実践ガイド</a>にてタスク管理アプリを作成し、「CRUD」、「データ内容の制限」「ログイン機能の追加」等のRailsアプリの基礎を学びました。
+description: <a href="https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B-Ruby-Rails-5%E9%80%9F%E7%BF%92%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E5%A4%A7%E5%A0%B4%E5%AF%A7%E5%AD%90/dp/4839962227">現場で使える Ruby on Rails 5速習実践ガイド</a>にてタスク管理アプリを作成、<br>「CRUD」、「データ内容の制限」「ログイン機能の追加」等のRailsアプリの基礎を学びました。</br>
 
 ---
