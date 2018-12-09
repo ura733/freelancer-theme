@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2018-12-01
+img: trashbox.png
+alt: image-alt
+project-date: December 2018
+code: https://github.com/ura733/TrashBox
+description: ゴミ出し一覧作成サイトを現在作成中です。
+
+---
