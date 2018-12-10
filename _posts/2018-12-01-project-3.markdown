@@ -8,7 +8,13 @@ project-date: December 2018
 name: Trash Box Table
 hp: https://trashboxtable-app.herokuapp.com/
 code: https://github.com/ura733/TrashBox
-description: ゴミ出し一覧作成サイトをRuby on Railsにて現在作成中です。
+description: ゴミ出し一覧作成サイトをRuby on Railsにて現在作成中です。<br>開発環境<ul>
+   <li>Ruby on Rails</li>
+   <li>slim</li>
+   <li>MySQL</li>
+   <li>Heroku</li>
+  </ul>
+
 
 
 ---
