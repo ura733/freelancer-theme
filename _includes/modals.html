@@ -19,6 +19,12 @@
                                 <div style="text-align: left">{{ post.description }}</div>
                             {% endif %}
                             <ul class="list-inline item-details">
+                                {% if post.hp %}
+                                    <li>HP:
+                                        <strong><a href="{{post.hp}}">{{ post.name }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
                                 {% if post.code %}
                                     <li>Source Code:
                                         <strong><a href="{{post.code}}">{{ post.code }}</a>
